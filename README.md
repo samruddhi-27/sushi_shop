@@ -7,6 +7,7 @@ Dribble design: https://dribbble.com/shots/18548602-Sushiman-Food-App?utm_source
 Sushi Heaven is a web-based platform for ordering delicious sushi dishes online. It provides a user-friendly interface for customers to explore a variety of sushi options, add items to their cart, and place orders from the comfort of their homes.
 Sushi Heaven is a frontend-only mobile app as i wanted to try minimal design that meets the design craving of new genration. It offers an intuitive user interface to browse a variety of sushi dishes, add items to the cart, and place orders. While the app provides a rich user experience, please note that it does not include backend functionality. All data is simulated within the app, and no server communication or backend services are involved.
 
+Features:
 The app has these pages:
 1. Landing page: A beautiful and aestheic landing page with brief intro of the app.
 2. Menu Page: Menu page has a variety of menu options to chooses from with beautiful images.
