@@ -1,6 +1,7 @@
 **Sushi Heaven - Online Sushi Ordering System**
 Languages Used:
 Dart,Kotlin
+SDK- Android studio 
 Framework: Flutter
 Dribble design: https://dribbble.com/shots/18548602-Sushiman-Food-App?utm_source=Clipboard_Shot&utm_campaign=mochamadhakim&utm_content=Sushiman%F0%9F%8D%A3%20-%20Food%20App&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=mochamadhakim&utm_content=Sushiman%F0%9F%8D%A3%20-%20Food%20App&utm_medium=Social_Share
 
